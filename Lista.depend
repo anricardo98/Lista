@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1526340627 source:c:\users\anric\music\lista\lista\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"C:\Users\anric\Music\Lista\Lista\lista.hpp"
+
+1526340720 c:\users\anric\music\lista\lista\lista.hpp
+	<iostream>
+	<vector>
+
